@@ -1,6 +1,7 @@
 # Object Oriented Programming
 
-__Object Oriented Programming concepts__ implemented in __C/C++ programming language__
+__Object Oriented Programming concepts__ implemented as a part of __Object Oriented Programming__ course at __VIT University__.
+
 
 ##### Programming Language:
 * C/C++ 
